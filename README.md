@@ -1,10 +1,4 @@
-
-
-ChatGPT
-You said:
-https://github.com/DeepakK-sec/RTF-decoder-3.0  . Need readme for this. 
-ChatGPT said:
-Here is a suggested README for the repository RTF‑decoder‑3.0 by DeepakK‑sec. You may tailor or extend it further per your project’s specifics.
+.
 
 RTF-decoder-3.0
 A lightweight decoder tool to parse and handle Rich Text Format (RTF) content.
